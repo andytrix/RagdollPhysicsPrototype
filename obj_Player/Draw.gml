@@ -1,4 +1,4 @@
-//////// DRAW PHYSICS DEBUG INFO //////////////////////////////
+//////// DRAW PHYSICS DEBUG INFO ///////////////////////////////
 physics_world_draw_debug(debug_draw);
 
 with id {
