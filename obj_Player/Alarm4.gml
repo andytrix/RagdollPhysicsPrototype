@@ -1,4 +1,4 @@
-//////////// WALKING AND JOINT MOTOR CONTROL DURING MOVEMENT ////////////////////////////////////
+//////////// WALKING AND JOINT MOTOR CONTROL DURING MOVEMENT ///////////////////////////////////
 walkStep = 0;
 legSpriteOffset1 = 0;
 legSpriteOffset2 = 0;
