@@ -18,7 +18,7 @@ This prototype demonstrates character movement and physics modeling based on rag
   
 # Features
 
-- **Physics-Driven Movement**: The character's movement and interactions are based on physics calculations, providing realistic and dynamic behavior.
+- **Physics-Driven Movement**: The character's movements and interactions are based on physics calculations, providing realistic and dynamic behavior.
 - **Ragdoll Mechanics**: Includes ragdoll elements that allow the character to respond naturally to collisions and forces.
 - **Joint and Motor Control**: Configurable joint constraints and motorized movements enable precise control over limb articulation.
 - **Customizable Settings**: Physics properties such as friction, damping, and restitution can be adjusted to fine-tune character behavior.
@@ -31,7 +31,7 @@ This prototype demonstrates character movement and physics modeling based on rag
 
 # Usage
 
-This prototype is designed as a learning tool for exploring physics-driven character movement and ragdoll mechanics in GameMaker. It provides a robust starting point for integrating realistic character behavior into a game. However, for use in a production environment, further optimization and customization of the code are recommended to meet the specific needs of the project. While the current implementation provides a good starting point, additional adjustments and improvements may be necessary for a fully polished experience.
+This prototype is designed as a learning tool for exploring physics-driven character movement and ragdoll mechanics in GameMaker. It provides a robust foundation for integrating realistic character behavior into a game. While the current implementation offers a solid base, additional adjustments and improvements may be necessary for a fully polished experience.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d9c1132e-7102-4594-bf89-6be7e41cc470" alt="214r3r-ezgif com-video-to-gif-converter">
@@ -40,7 +40,7 @@ This prototype is designed as a learning tool for exploring physics-driven chara
 # Installation
 
 1. **Create a New Project in GameMaker**  
-   Begin by opening GameMaker and creating a new project. Name your project according to your preferences.  
+   Begin by opening GameMaker and creating a new project. Name your project according to your preferences. 
 
    <img width="158" alt="Screenshot 2024-10-22 at 9 47 18" src="https://github.com/user-attachments/assets/63ec39aa-992e-4484-ad45-3906f4c24a0c">
 
@@ -57,21 +57,21 @@ This prototype is designed as a learning tool for exploring physics-driven chara
    You can find the code for these objects in the GitHub repository.
    [Download the repository as a ZIP file](https://github.com/andytrix/RagdollPhysicsPrototype/archive/refs/heads/main.zip).
 
-5. **Create Obj_Ground**  
+4. **Create Obj_Ground**  
    Create an object named `Obj_Ground` for testing purposes. 
    
    <img width="182" alt="Screenshot 2024-10-22 at 13 11 33" src="https://github.com/user-attachments/assets/41a606de-75eb-40e1-a07c-316578509a00">
 
-   Set its physics properties as shown in the image below:
+   Set its physics properties as shown in the image below. Additionally, make sure to go to the "Modify Collision Shape" section to create an appropriate shape so that `Obj_Ground` has a proper          physics collision shape.
 
    <img width="602" alt="Screenshot 2024-10-22 at 13 11 55" src="https://github.com/user-attachments/assets/bda73a5d-a618-4126-9ad0-d1b073a101ad">
 
-6. **Add Objects to the Room**  
+5. **Add Objects to the Room**  
    Place `obj_Player` and `Obj_Ground` into `Room1` as shown in the image below:
 
    <img width="764" alt="Screenshot 2024-10-22 at 13 22 44" src="https://github.com/user-attachments/assets/29fa9ae8-4235-44af-8c67-af7b84797854">
 
-7. **Event Structure Summary**  
+6. **Event Structure Summary**  
    Below is the event structure for each object. The images provided show the events set up within each respective object.
    
    #### `obj_Player`
@@ -86,7 +86,7 @@ This prototype is designed as a learning tool for exploring physics-driven chara
    #### `obj_PlayerBodyLeg`
    <img width="155" alt="Screenshot 2024-10-22 at 10 20 34" src="https://github.com/user-attachments/assets/2f603ec1-1dbc-4dde-b294-0ba7456148a3">
 
-8. **Completion**  
+7. **Completion**  
    Now that you have completed all the steps, you should have a functioning ragdoll physics character in your GameMaker project.
 
 # License
