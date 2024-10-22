@@ -6,6 +6,13 @@ This prototype demonstrates character movement and physics modeling based on rag
     <img src="https://github.com/user-attachments/assets/a16e3aa4-dede-494e-aaf4-700979df9473" alt="intro">
 </div>
 
+# Contents
+
+- [Features](#features)
+- [Usage](#usage)
+- [Installation](#installation)
+- [License](#license)
+  
 # Features
 
 - **Physics-Driven Movement**: The character's movement and interactions are based on physics calculations, providing realistic and dynamic behavior.
