@@ -1,3 +1,5 @@
+# Ragdoll Physics Prototype
+
 This prototype demonstrates character movement and physics modeling based on ragdoll mechanics. It is specifically designed for game developers who want to explore physics-driven character motion and fine-tuning using GML code. The prototype showcases how a physics-based character can interact with its environment in a realistic way, making it a valuable learning resource for those interested in game development with GameMaker.
 
 *Note: This project is a prototype. If you choose to use this code, it's recommended to optimize and adapt it to better suit your specific requirements. The code serves as a foundational example, but further customization may be necessary for production use.*
@@ -8,6 +10,7 @@ This prototype demonstrates character movement and physics modeling based on rag
 
 # Contents
 
+- [Introduction](#ragdoll-physics-prototype)
 - [Features](#features)
 - [Usage](#usage)
 - [Installation](#installation)
