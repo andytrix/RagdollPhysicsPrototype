@@ -79,4 +79,6 @@ This prototype is designed as a learning tool for exploring physics-driven chara
 8. **Completion**  
    Now that you have completed all the steps, you should have a functioning ragdoll physics character in your GameMaker project.
 
+# License
 
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code, as long as you give appropriate credit to "andytrix".
