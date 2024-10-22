@@ -26,8 +26,9 @@ This prototype demonstrates character movement and physics modeling based on rag
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/88c75a57-aec0-4ea9-adbe-bbd6873c8571" alt="drill" width="45%">
-    <img src="https://github.com/user-attachments/assets/6e4c9d7c-f94f-49aa-9e08-acfe12fc7740" alt="swim" width="45%">
+    
 </p>
+
 
 # Usage
 
