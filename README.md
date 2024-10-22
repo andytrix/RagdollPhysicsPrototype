@@ -45,7 +45,7 @@ This prototype is designed as a learning tool for exploring physics-driven chara
    <img width="229" alt="Screenshot 2024-10-22 at 9 52 25" src="https://github.com/user-attachments/assets/b07dcfd6-3ae0-4f99-b54b-edc90843003c">
 
    You can find the code for these objects in the GitHub repository.
-   [Download the repository as a ZIP file](https://github.com/USERNAME/REPOSITORY_NAME/archive/refs/heads/main.zip).
+   [Download the repository as a ZIP file](https://github.com/andytrix/RagdollPhysicsPrototype/archive/refs/heads/main.zip).
 
 5. **Create Obj_Ground**  
    Create an object named `Obj_Ground` for testing purposes. 
