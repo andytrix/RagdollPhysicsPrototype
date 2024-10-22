@@ -62,7 +62,7 @@ This prototype is designed as a learning tool for exploring physics-driven chara
    
    <img width="182" alt="Screenshot 2024-10-22 at 13 11 33" src="https://github.com/user-attachments/assets/41a606de-75eb-40e1-a07c-316578509a00">
 
-   Set its physics properties as shown in the image below. Additionally, make sure to go to the "Modify Collision Shape" section to create an appropriate shape so that `Obj_Ground` has a proper          physics collision shape.
+   Set its physics properties as shown in the image below. Additionally, make sure to create a sprite and assign it to `Obj_Ground` so that you can modify its collision shape in the `Modify Collision Shape` section. Without a sprite, the object will not have a physical form.
 
    <img width="602" alt="Screenshot 2024-10-22 at 13 11 55" src="https://github.com/user-attachments/assets/bda73a5d-a618-4126-9ad0-d1b073a101ad">
 
