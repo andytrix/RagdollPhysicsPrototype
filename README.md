@@ -27,4 +27,56 @@ This prototype is designed as a learning tool for exploring physics-driven chara
   <img src="https://github.com/user-attachments/assets/d9c1132e-7102-4594-bf89-6be7e41cc470" alt="214r3r-ezgif com-video-to-gif-converter">
 </p>
 
-# Installation and Usage
+# Installation
+
+1. **Create a New Project in GameMaker**  
+   Begin by opening GameMaker and creating a new project. Name your project according to your preferences.  
+
+   <img width="158" alt="Screenshot 2024-10-22 at 9 47 18" src="https://github.com/user-attachments/assets/63ec39aa-992e-4484-ad45-3906f4c24a0c">
+
+2. **Configure Room Physics**  
+   Next, enable physics in the room settings. Set the gravity as shown in the image below:
+   
+   <img width="234" alt="Screenshot 2024-10-22 at 9 48 13" src="https://github.com/user-attachments/assets/dd12c426-94cf-461f-9dd9-23d46cc37655">
+
+3. **Create the Necessary Objects**  
+   Add the following objects to your project, as shown in the image below:
+   
+   <img width="229" alt="Screenshot 2024-10-22 at 9 52 25" src="https://github.com/user-attachments/assets/b07dcfd6-3ae0-4f99-b54b-edc90843003c">
+
+   You can find the code for these objects in the GitHub repository.
+   [Download the repository as a ZIP file](https://github.com/USERNAME/REPOSITORY_NAME/archive/refs/heads/main.zip).
+
+5. **Create Obj_Ground**  
+   Create an object named `Obj_Ground` for testing purposes. 
+   
+   <img width="182" alt="Screenshot 2024-10-22 at 13 11 33" src="https://github.com/user-attachments/assets/41a606de-75eb-40e1-a07c-316578509a00">
+
+   Set its physics properties as shown in the image below:
+
+   <img width="602" alt="Screenshot 2024-10-22 at 13 11 55" src="https://github.com/user-attachments/assets/bda73a5d-a618-4126-9ad0-d1b073a101ad">
+
+6. **Add Objects to the Room**  
+   Place `obj_Player` and `Obj_Ground` into `Room1` as shown in the image below:
+
+   <img width="764" alt="Screenshot 2024-10-22 at 13 22 44" src="https://github.com/user-attachments/assets/29fa9ae8-4235-44af-8c67-af7b84797854">
+
+7. **Event Structure Summary**  
+   Below is the event structure for each object. The images provided show the events set up within each respective object.
+   
+   #### `obj_Player`
+   <img width="145" alt="Screenshot 2024-10-22 at 10 20 15" src="https://github.com/user-attachments/assets/8974f587-3e0a-420a-a6ce-36d12052f72a">
+
+   #### `obj_PlayerBody`
+   <img width="155" alt="Screenshot 2024-10-22 at 10 20 34" src="https://github.com/user-attachments/assets/2f603ec1-1dbc-4dde-b294-0ba7456148a3">
+
+   #### `obj_PlayerBody_2`
+   <img width="107" alt="Screenshot 2024-10-22 at 10 20 49" src="https://github.com/user-attachments/assets/0b68ce7e-f6f1-48b7-9eae-f6e95107dfde">
+
+   #### `obj_PlayerBodyLeg`
+   <img width="155" alt="Screenshot 2024-10-22 at 10 20 34" src="https://github.com/user-attachments/assets/2f603ec1-1dbc-4dde-b294-0ba7456148a3">
+
+8. **Completion**  
+   Now that you have completed all the steps, you should have a functioning ragdoll physics character in your GameMaker project.
+
+
